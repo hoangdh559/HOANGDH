@@ -1,9 +1,3 @@
-# This is a sample Python script.
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
-
 def tongtienmuahang(gia_truoc_thue):
 
   tien_thue = gia_truoc_thue * 0.1
